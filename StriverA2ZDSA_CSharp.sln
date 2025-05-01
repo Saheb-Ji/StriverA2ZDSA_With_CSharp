@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StriverA2ZDSA_CSharp", "StriverA2ZDSA_CSharp\StriverA2ZDSA_CSharp.csproj", "{68A54943-A3B3-41A3-9235-734EEE911FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A54943-A3B3-41A3-9235-734EEE911FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A54943-A3B3-41A3-9235-734EEE911FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A54943-A3B3-41A3-9235-734EEE911FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A54943-A3B3-41A3-9235-734EEE911FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E34725-9AAF-4899-A248-F2C3FDEDD2DF}
+	EndGlobalSection
+EndGlobal
